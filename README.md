@@ -2,6 +2,7 @@
 Welcome to LIBFT, an essential project that serves as your personal C library. This repository is designed to implement standard C library functions and additional utilities that simplify your coding journey. With LIBFT, you'll create a robust foundation that enhances your programming skills.
 Are you ready to deepen your understanding of memory management and function implementation? This project focuses on replicating fundamental functions from the C standard library, offering a hands-on experience in function creation, error handling, and debugging. Whether you’re a novice or looking to refine your skills, LIBFT is the perfect starting point.
 Each function within this library has been carefully crafted to empower your coding capabilities. By integrating LIBFT into your projects, you’ll be equipped to tackle complex coding challenges while ensuring your code is efficient and reliable. Make your coding experience seamless and enjoyable with this comprehensive library.
+![LIBFT](https://cdn.leonardo.ai/users/af8ee1cf-2a87-473e-9ef3-d0caefff30d5/generations/c8e8dfe8-9f5f-4b60-ac98-6363a30bab14/variations/UniversalUpscaler_c8e8dfe8-9f5f-4b60-ac98-6363a30bab14.jpg)
 Follow the steps below to incorporate LIBFT into your projects:
 1. Clone the repository:
 ```
